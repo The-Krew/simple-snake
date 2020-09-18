@@ -1,6 +1,7 @@
 # simple-snake
 
-* 1.5 - added multiplayer (scores do not work correctly, colors are wrong and snakes are not centered)
+* 1.6 - scores work correctly, changed snake colors
+* 1.5 - added multiplayer
 * 1.4 - changed some textures, made everything bigger
 * 1.3 - added highscore, made snake move faster, food can no longer spawn in walls
 * 1.2 - added sounds
