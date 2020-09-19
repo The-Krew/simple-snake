@@ -1,9 +1,10 @@
 # simple-snake
 
-* 1.6 - changed snake colors
-* 1.5 - added multiplayer
-* 1.4 - changed some textures, made everything bigger
-* 1.3 - added highscore, made snake move faster, food can no longer spawn in walls
-* 1.2 - added sounds
-* 1.1 - added menu and end-screen
-* 1.0 - base game
+* 1.0 - fixed multiplayer scoring (probably final release)
+* 0.7 - changed snake colors
+* 0.6 - added multiplayer
+* 0.5 - changed some textures, made everything bigger
+* 0.4 - added highscore, made snake move faster, food can no longer spawn in walls
+* 0.3 - added sounds
+* 0.2 - added menu and end-screen
+* 0.1 - gameplay prototype
