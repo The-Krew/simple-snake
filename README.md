@@ -1,6 +1,7 @@
 # simple-snake
 ***
 ### Programmed by Deus
+***
 
 * 1.0 - player can now turn off sound (final release)
 * 0.9 - fixed no collisions in singleplayer, snakes spawn in the correct position
