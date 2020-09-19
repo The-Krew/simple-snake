@@ -1,6 +1,7 @@
 # simple-snake
 
-* 1.0 - fixed multiplayer scoring (probably final release)
+* 1.1 - fixed no collisions in singleplayer, player can now turn sounds off
+* 1.0 - fixed multiplayer scoring
 * 0.7 - changed snake colors
 * 0.6 - added multiplayer
 * 0.5 - changed some textures, made everything bigger
