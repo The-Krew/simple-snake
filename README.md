@@ -3,7 +3,7 @@
 ### Programmed by Deus
 ***
 
-* 1.0 - player can now turn off sound (final release)
+* 1.0 - player can now turn off sound (final release), added android version
 * 0.9 - fixed no collisions in singleplayer, snakes spawn in the correct position
 * 0.8 - fixed multiplayer scoring
 * 0.7 - changed snake colors
